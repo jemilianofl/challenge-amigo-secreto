@@ -15,7 +15,7 @@ function agregarAmigo() {
     input.value = ""; // Limpiar el campo de entrada
 }
 
-function actualizarLista() {sim
+function actualizarLista() {
     let lista = document.getElementById("listaAmigos");
     lista.innerHTML = ""; // Limpiar la lista antes de actualizar
     
