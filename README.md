@@ -31,5 +31,5 @@ Esta es una aplicación web sencilla para realizar un sorteo de "Amigo Secreto".
 Solo necesitas un navegador web para ejecutar esta aplicación, no requiere instalación de software adicional.
 
 ## Autor
-**José Emilianof Flores Pérez**
+**José Emiliano Flores Pérez**
 
